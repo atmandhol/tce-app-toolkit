@@ -1,0 +1,8 @@
+registry:
+  server: gcr.io
+  repo: adhol-playground/tce
+  username: _json_key # Add username here
+  password: # Add password here
+
+developer:
+  namespace: default
